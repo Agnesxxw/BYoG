@@ -22,19 +22,6 @@
 
 <p>A video playlist discussing tips for working on this project can be found <a href="https://www.youtube.com/playlist?list=PL8FaHk7qbOD6REWjsJd5jz9fpXO5_3ebY&amp;disable_polymer=true">at this link</a>. Slides for these videos can be found <a href="https://docs.google.com/presentation/d/1XIu1L0k18A2QUlZuFYlJqjrQqSRNQp05qr1OmoBQkFE/edit?usp=sharing">at this link</a>.</p>
 
-<p>There are several key deadlines for this assignment:</p>
-<ul>
-  <li>Phase 0: Team formation: Due with lab on Friday February 16th.
-    <ul>
-      <li><a href="https://goo.gl/forms/jCjklkYPXHV5J4ZQ2">Partnership Form</a></li>
-      <li><a href="https://goo.gl/forms/F0bGlCBmdhkwNZBs2">Solo Form</a> for if you really want to work alone, but this is not recommended.</li>
-    </ul>
-  </li>
-  <li>Phase 1: World Generation: Due on gradescope by 2/26 at 11:59 PM. Finish by 2/23 for 6 points of extra credit.</li>
-  <li>Phase 2: Playable Game: Due on gradescope by 3/5 at 11:59 PM.</li>
-  <li>Lab Demo: Demo your project during lab on 3/7, 3/8, or 3/9. Sign-ups for demo slots will be released later.</li>
-  <li>Gold Points: Add creative mechanics to your game, and create a public youtube video showcasing what you built by 3/9.</li>
-</ul>
 
 <p>Now on to the assignment spec!</p>
 
@@ -287,54 +274,7 @@
 
 <p>After adding your mechanics as well as your win/loss conditions, create a public youtube showcasing your game, including its creative mechanics and win/loss conditions, and submit a link using [this form (link TBA)]. It is not necessary for you to able to actually win your own game, i.e. it’s OK if your game is really hard.</p>
 
-<h2 id="grading">Grading</h2>
-<p>Autograder points: 120 points.</p>
-<ul>
-  <li>Phase 1: 60 points.</li>
-  <li>Phase 2: 60 points.</li>
-  <li>+6 points for finishing phase 1 early.</li>
-</ul>
 
-<p>Lab demo: 80 points.</p>
-<ul>
-  <li>20 points: Ambition of design, aesthetics, etc.</li>
-  <li>60 points: Obeying base spec for phase 1 and phase 2.</li>
-</ul>
-
-<p>Gold points: 12 gold points.</p>
-
-<h3 id="lab-demo-checkoff-script">Lab Demo Checkoff Script</h3>
-
-<p>In the hopes of keeping this process as transparent as possible, click <a href="proj2checkoff">here</a> for the exact script the TA or tutor will use when checking your project. By the end of the demo, you should be able to determine exactly what points you received and will have an opportunity to demonstrate any feature which was not checked off during the demo but exists in your project. Note that while some of these features are a bit subjective, this demo is meant to give you a chance to defend your work and was chosen over having us grade it locked behind doors with no input from you. We will respect the amount of work you put into your project and you should have a discussion with us if you believe we are not grading you fairly.</p>
-
-<h2 id="office-hours">Office Hours</h2>
-
-<p>Due to the open-ended nature of this project, it will be hard for the course staff to help
-you debug your project in the same way that they can for other projects. As a result, we
-will be implementing the following procedure regarding
-receiving help during office hours in order to be able to allot an adequate enough time for
-those that attend.</p>
-<ul>
-  <li>
-    <p>Course staff will spend at most ~10 minutes per student.</p>
-  </li>
-  <li>
-    <p>Your code must be well documented, 
- including all methods you write, according to the 
- <a href="http://sp18.datastructur.es/materials/guides/style-guide.html#comments">style guide</a>. 
- This is to minimize time spent verbally explaining what each method does.</p>
-  </li>
-  <li>
-    <p>If your question is for debugging help, you must be prepared to explain the error that is being caused 
-and have a test or input that can easily reproduce 
-the bug for ease of debugging. If you come to us saying something does not work, but have not written any tests or attempted to use the debugger, we will not help you.</p>
-  </li>
-  <li>
-    <p>When we do provide debugging help, it may be at a high level, where we suggest ways to
- reorganize your code in order to make clarity and debugging easier. It is not a good use of
- your time or the TAs’ time to try to find bugs in something that is disorganized and brittle.</p>
-  </li>
-</ul>
 
 <h2 id="faq">FAQ</h2>
 <p>Q: I want to make a game that’s about exploring the outdoors or caves or something like that, not a bunch of rooms. What should I do?
